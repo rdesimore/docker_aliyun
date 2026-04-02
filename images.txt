@@ -1,1 +1,3 @@
 # --platform=linux/arm64 xiaoyaliu/alist
+
+sbs20/scanservjs:latest
